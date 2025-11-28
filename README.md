@@ -92,10 +92,11 @@ See the LICENSE file in the project root.
 ✨ Contributors & Author
 <div align="center">
 👑 Author & Maintainer
-🔥 Mohan Chandu Peelam
+🔥 Mohan Chandu 
 
 Creator • Architect • Core Developer
 💼 Turning AI + LangChain concepts into clean, modern, production-ready templates.
+
 🔗 GitHub: https://github.com/Mohan-96a
 
 🌟 Contributors
