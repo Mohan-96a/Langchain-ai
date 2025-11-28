@@ -102,7 +102,7 @@ Creator • Architect • Core Developer
 
 Exceptional collaborators who helped strengthen this project.
 
-🟩 Suman Kumar
+🟩 Suman yadav Tati
 
 🔗 GitHub: https://github.com/sumancoder-cloud
 
